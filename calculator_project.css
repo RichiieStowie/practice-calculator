@@ -1,0 +1,135 @@
+.box{
+  background-color: #26241e;
+  width: 25%;
+  height: auto;
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+
+
+
+}
+#display_name{
+  border: 5px solid black;
+  text-align: center;
+  width:80%;
+  margin: 20px;
+  margin-top: 50px;
+  padding: 15px;
+  border-radius: 15px;
+  font-family:'Press Start 2P', cursive;
+  color: white;
+
+}
+#input-digits{
+  font-family:'Press Start 2P', cursive;
+  margin: 5px;
+  margin-left: 50px;
+  margin-bottom: 30px;
+  display: grid;
+  grid-template-columns: repeat(4,60px);
+  grid-template-rows: auto;
+  grid-gap: 10px;
+}
+#seven{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#eight{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#nine{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#add{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#six{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#five{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#four{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#three{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#two{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#one{
+    border: 1px solid white;
+    text-align: center;
+    padding: -5px;
+    border-radius: 15px;
+}
+#zero{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#minus{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#times{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#equal{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#divide{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#multiply{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
+#clear{
+  border: 1px solid white;
+  text-align: center;
+  padding: -5px;
+  border-radius: 15px;
+}
